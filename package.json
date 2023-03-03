@@ -18,6 +18,6 @@
   "homepage": "https://github.com/MrMarble/PM2-Telegram-bot#readme",
   "dependencies": {
     "node-telegram-bot-api": "^0.30.0",
-    "pm2": "^3.0.3"
+    "pm2": "^5.2.2"
   }
 }
